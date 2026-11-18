@@ -4,11 +4,11 @@
 
 ## Что хранится на телефоне
 
-Прогресс дел, снежинки, пометки, открытые улики, дневник и настройки звука записываются только на устройство. Эти данные не отправляются разработчику. Удаление приложения удаляет их.
+Прогресс дел, снежинки, пометки, вычеркнутые варианты, дневник и настройки звука записываются только на устройство. Эти данные не отправляются разработчику. Удаление приложения удаляет их.
 
 ## Реклама
 
-За подсказку и за улику после трёх неудачных попыток можно посмотреть короткое видео. Ролик показывает рекламная сеть Яндекса. Для этого сеть может получить рекламный идентификатор устройства и технические данные показа (IP-адрес, модель, версия системы). Смотреть ролик не обязательно: подсказку даёт и новогодний вопрос, а улику можно открыть, выиграв мини-игру.
+За снежинку можно посмотреть короткое видео. Ролик показывает рекламная сеть Яндекса. Для этого сеть может получить рекламный идентификатор устройства и технические данные показа (IP-адрес, модель, версия системы). Смотреть ролик не обязательно: снежинку также дают первое раскрытие дела, каждое пятое дело, новогодний вопрос и короткая игра после дела. Улики мини-игра не открывает.
 
 ## Google Play Games
 
@@ -30,11 +30,11 @@ New Year Detective (`ru.svp.newyeardetective`) does not create an account and ha
 
 ## Stored on the phone
 
-Case progress, snowflakes, notes, opened clues, the diary and sound settings stay on the device. They are not sent to the developer. Uninstalling the app deletes them.
+Case progress, snowflakes, notes, crossed-out options, the diary and sound settings stay on the device. They are not sent to the developer. Uninstalling the app deletes them.
 
 ## Ads
 
-A short video can pay for a hint, or for a clue after three failed mini-game tries. The video is served by Yandex advertising. That network may receive the advertising ID and technical delivery data such as IP address, device model and OS version. Watching is optional: a Christmas question also grants a snowflake, and winning the mini-game opens the clue.
+A short video can grant a snowflake. The video is served by Yandex advertising. That network may receive the advertising ID and technical delivery data such as IP address, device model and OS version. Watching is optional: a snowflake also comes from a first clear, every fifth case, a Christmas question and the short game after a case. Mini-games do not open clues.
 
 ## Google Play Games
 
